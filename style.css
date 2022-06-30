@@ -1,0 +1,155 @@
+#wrapper{
+    width: 1100px;
+    height: 2000px;
+    margin: auto;
+}
+
+#header{
+    height: 70px;
+    border-bottom: 3px solid black;
+}
+
+#header h1{
+    float: left;
+    padding-left: 10px;
+    margin: 0;
+    font-size: 50px;
+}
+
+#menu{
+    float: right;
+    list-style: none;
+    
+}
+
+#menu li{
+    float: left;
+  
+}
+
+#menu li a{
+    color: black;
+    padding: 0px 20px 0px 20px;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+.tombol{
+    background: rgb(54, 205, 255);
+    padding: 10px 15px 10px 15px;
+}
+a.tombol:hover{
+    background: palegreen;
+}
+
+#home{
+    margin: auto;
+    margin-bottom: 50px;
+    display: flex;
+}
+
+#home img{
+    float: left;
+    width: 500px;
+    margin-left: 10px;
+    margin-top: 20px;
+    
+}
+
+
+.kolom{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    padding-left: 30px;
+}
+
+
+ h2{
+    font-size: 40px;
+    margin-top: -10px;
+    margin-bottom: 10px;
+    
+}
+
+.kolom a{
+    background: green;
+    padding: 10px 15px;
+    
+    color: white;
+    text-decoration: none;
+}
+
+.kolom a:hover{
+    background: red;
+}
+
+
+
+#home2 img{
+    float: right;
+    width: 500px;
+    height: 300px;
+}
+
+#tutor{   
+    margin-top: 150px;
+    text-align: center;
+}
+
+#tutor2{
+    display: flex;
+    padding-left: 200px;
+}
+
+
+.tutor1{
+    margin: 0px 40px;
+    text-align: center;    
+}
+
+#partners{
+    text-align: center;
+    padding-top: 30px;
+}
+
+#partners2{
+    display: flex;
+    padding-left: 220px;
+}
+
+.logo-partners{
+   
+    margin-right: 50px;
+    margin-top: -570px;
+}
+
+#contact{
+   background: rgb(190, 190, 190);
+   display: flex;
+   width: 1100px;
+   margin: auto;
+   margin-top: -300px;
+}
+
+.list-contact{
+    width: 25%;
+   margin-left: 30px;
+   padding-top: 20px;
+   padding-bottom: 20px;
+   
+}
+
+    
+
+
+
+    
+    
+   
+
+
+
+
+
+
+
